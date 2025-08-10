@@ -1,4 +1,5 @@
 ## Hi there 👋
+It's Anushka, I am 3rd year student currently learning MERN STACK and improving DSA.
 
 <!--
 **Anushka-gupta9/Anushka-gupta9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
