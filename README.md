@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=Anushka-gupta9&color=red)
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Hi%20There!%20I'm%20Anushka%20Gupta&fontSize=40&fontColor=ffffff" alt="header" />
