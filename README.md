@@ -12,13 +12,13 @@
 ---
 
 ## 👩‍💻 About Me
-Hi! I’m **Anushka Gupta**, a passionate developer exploring **Web Development, MERN Stack, and Problem Solving**.  
-I love building real-world projects and learning new technologies. 🚀
+Hi! I’m **Anushka Gupta**, a developer exploring **Web Development, MERN Stack, and Problem Solving**.  
+I am going to build real-world projects and learning new technologies. 🚀
 
-- 🎓 3rd year Computer Science student  
+- 🎓 3rd year College student  
 - 📚 Currently learning **MERN Stack** and **DSA**  
 - 🌱 Exploring **AI-powered apps**  
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
+
 
 ---
 
